@@ -1,0 +1,1 @@
+server=SILVERWOLFPC\SQLEXPRESS;Trusted_Connection=yes;database=oneidea; connection timeout=30
